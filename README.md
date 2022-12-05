@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud System Engineer
 ---------------------
 
-I am a cloud system engineer. I provide solutions to complex problems, including the design of new systems, hardware upgrades, and system maintenance.
+I'm a cloud engineer with more than 3 years of experience in the field. I have a degree in computer engineering, and I'm certified in AWS and Azure. I've worked on a number of projects, including a cloud migration for a large retail company and a cloud-based disaster recovery solution for a healthcare provider. In my current role, I lead a team of engineers in building and maintaining cloud infrastructure. I'm excited about the opportunity to join your team and contribute to your cloud engineering efforts.
 
 * 🌍  I'm based in Atlanta & Texas
-* ✉️  You can contact me at [Tibrahim4cloud@gmail.com](mailto:Tibrahim4cloud@gmail.com)
+* ✉️  You can contact me at [Taofeekedu@outlook.com](mailto:Tibrahim4cloud@gmail.com)
 * 🧠  I'm learning Cloud & Devops Engineering
 * 🤝  I'm open to collaborating on Cloud Projects
 
